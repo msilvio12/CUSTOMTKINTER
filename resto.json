@@ -1,0 +1,44 @@
+[
+  {
+    "nombre": "El Méson Restaurante y Bar",
+    "tipo": "Fusión",
+    "plato principal": "Empanadas salteñas",
+    "latitud": -24.76905,
+    "longitud": -65.21828
+  },
+  {
+    "nombre": "Restaurante Don Salvador",
+    "tipo": "Argentina",
+    "plato principal": "Lomo salteño",
+    "latitud": -24.77366,
+    "longitud": -65.22270
+  },
+  {
+    "nombre": "Aires Caseros",
+    "tipo": "Regional",
+    "plato principal": "Humita en chala",
+    "latitud": -24.76962,
+    "longitud": -65.21997
+  },
+  {
+    "nombre": "ADOBE Cocina Regional",
+    "tipo": "Regional",
+    "plato principal": "Tamales salteños",
+    "latitud": -24.76905,
+    "longitud": -65.21828
+  },
+  {
+    "nombre": "Ma Cuisine Resto",
+    "tipo": "Internacional",
+    "plato principal": "Fondue de queso",
+    "latitud": -24.77366,
+    "longitud": -65.22270
+  },
+  {
+    "nombre": "La Cefira",
+    "tipo": "Cocina de autor",
+    "plato principal": "Pescado al horno con papas andinas",
+    "latitud": -24.76962,
+    "longitud": -65.21997
+  }
+]

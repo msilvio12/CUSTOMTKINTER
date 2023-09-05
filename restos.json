@@ -1,0 +1,16 @@
+{
+    "restaurantes": [
+      {
+        "nombre": "Restaurante 1",
+        "direccion": "Dirección 1",
+        "imagen": "restaurante1.jpg"
+      },
+      {
+        "nombre": "Restaurante 2",
+        "direccion": "Dirección 2",
+        "imagen": "restaurante2.jpg"
+      }
+     
+    ]
+  }
+  
